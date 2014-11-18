@@ -14,9 +14,9 @@ system("color f1");
 
               for (stat=0; stat<4; ++stat)
               {
-				   cout<<"Epibates : "<<sum<<endl;
+		   cout<<"Epibates : "<<sum<<endl;
 
-				   _Bool flagstat1=0;
+		   _Bool flagstat1=0;
                    _Bool flagstat2=0;
 		   while (!flagstat1)
                    {
