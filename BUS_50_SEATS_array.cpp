@@ -18,7 +18,7 @@ system("color f1");
 
 				   _Bool flagstat1=0;
                    _Bool flagstat2=0;
-				   while (!flagstat1)
+		   while (!flagstat1)
                    {
                          
                          if (sum==0)
