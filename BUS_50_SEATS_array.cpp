@@ -44,9 +44,9 @@ system("color f1");
                          testsum=sum+busup[stat]-busdown[stat];
                          if ((busup[stat]>50) || (busup[stat]<0))
                          { 
-                                            cout<<"@@@ LA8OS !!! DWSE PALI @@@"<<endl;
+                                        cout<<"@@@ LA8OS !!! DWSE PALI @@@"<<endl;
                          }else if (testsum>50){
-											cout<<"MEGISTOS ARI8MOS EPIBATWN 50. DWSE PALI"<<endl;
+					cout<<"MEGISTOS ARI8MOS EPIBATWN 50. DWSE PALI"<<endl;
                          }else{
                          flagstat2=1;
                          }
